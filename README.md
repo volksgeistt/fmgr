@@ -5,7 +5,7 @@
 
 > [!TIP]
 > ## Usage
-> Run `.\file-manager.ps1` and choose from:
+> Run `.\windows.FMGR.ps1` and choose from:
 > - **1** - Change Directory
 > - **2** - Go Back  
 > - **3** - Move File/Folder
